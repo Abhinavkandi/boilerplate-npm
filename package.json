@@ -7,7 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author":"Kandi"
+	"author":"Kandi",
 		
 	"repository": {
 		"type": "git",
